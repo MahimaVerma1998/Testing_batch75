@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="23" started-at="2022-08-02T11:43:51Z" finished-at="2022-08-02T11:43:52Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="23" started-at="2022-08-02T11:43:51Z" finished-at="2022-08-02T11:43:52Z">
+      <class name="TestNGExample.TC001">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:TestNGExample.TC001@598067a5]" name="beforeSuite" is-config="true" duration-ms="7" started-at="2022-08-02T17:13:51Z" finished-at="2022-08-02T17:13:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:TestNGExample.TC001@598067a5]" name="beforeTest" is-config="true" duration-ms="0" started-at="2022-08-02T17:13:51Z" finished-at="2022-08-02T17:13:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:TestNGExample.TC001@598067a5]" name="beforeClass" is-config="true" duration-ms="2" started-at="2022-08-02T17:13:51Z" finished-at="2022-08-02T17:13:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:TestNGExample.TC001@598067a5]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2022-08-02T17:13:52Z" finished-at="2022-08-02T17:13:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="f(java.lang.Integer, java.lang.String)[pri:0, instance:TestNGExample.TC001@598067a5]" name="f" duration-ms="3" started-at="2022-08-02T17:13:52Z" data-provider="dp" finished-at="2022-08-02T17:13:52Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[a]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="f(java.lang.Integer, java.lang.String)[pri:0, instance:TestNGExample.TC001@598067a5]" name="f" duration-ms="1" started-at="2022-08-02T17:13:52Z" data-provider="dp" finished-at="2022-08-02T17:13:52Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[b]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:TestNGExample.TC001@598067a5]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2022-08-02T17:13:52Z" finished-at="2022-08-02T17:13:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:TestNGExample.TC001@598067a5]" name="afterMethod" is-config="true" duration-ms="0" started-at="2022-08-02T17:13:52Z" finished-at="2022-08-02T17:13:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:TestNGExample.TC001@598067a5]" name="afterClass" is-config="true" duration-ms="0" started-at="2022-08-02T17:13:52Z" finished-at="2022-08-02T17:13:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:TestNGExample.TC001@598067a5]" name="afterMethod" is-config="true" duration-ms="0" started-at="2022-08-02T17:13:52Z" finished-at="2022-08-02T17:13:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:TestNGExample.TC001@598067a5]" name="afterTest" is-config="true" duration-ms="0" started-at="2022-08-02T17:13:52Z" finished-at="2022-08-02T17:13:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:TestNGExample.TC001@598067a5]" name="afterSuite" is-config="true" duration-ms="0" started-at="2022-08-02T17:13:52Z" finished-at="2022-08-02T17:13:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- TestNGExample.TC001 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
